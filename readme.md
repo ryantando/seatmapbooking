@@ -1,3 +1,5 @@
+![react-native-seat-map](https://github.com/ryantando/seatmapbooking/blob/initial/Screenshot_1.jpg?raw=true)
+
 ## React Native Seat Map Booking Layout
 
 To run on your device (make sure you have installed android sdk on your machine) 
